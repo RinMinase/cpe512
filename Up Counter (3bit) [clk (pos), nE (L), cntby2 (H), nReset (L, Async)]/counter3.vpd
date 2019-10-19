@@ -1,0 +1,95 @@
+$date
+	Mon Aug 08 01:34:03 2016
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module counter3_tb $end
+$var wire 3 ! out [2:0] $end
+$var reg 1 " Clk $end
+$var reg 1 # cntby2 $end
+$var reg 1 $ nE $end
+$var reg 1 % nReset $end
+$scope module UUT $end
+$var wire 1 & Clk $end
+$var wire 1 ' cntby2 $end
+$var wire 1 ( nE $end
+$var wire 1 ) nReset $end
+$var reg 3 * out [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1 *
+1)
+0(
+0'
+1&
+1%
+0$
+0#
+1"
+b1 !
+$end
+#5
+1$
+1(
+0"
+0&
+#10
+b10 *
+b10 !
+1"
+1&
+#15
+0"
+0&
+0%
+0)
+#20
+b11 *
+b11 !
+1"
+1&
+#25
+0"
+0&
+#30
+b0 *
+b0 !
+1"
+1&
+0$
+0(
+1#
+1'
+#35
+0"
+0&
+#40
+1"
+1&
+#45
+b10 *
+b10 !
+0"
+0&
+1%
+1)
+#50
+b100 *
+b100 !
+1"
+1&
+#55
+0"
+0&
+#60
+b110 *
+b110 !
+1"
+1&

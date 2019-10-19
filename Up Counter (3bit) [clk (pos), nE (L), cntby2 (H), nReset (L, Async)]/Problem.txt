@@ -1,0 +1,1 @@
+Write a description of a 3bit up counter name counter3. The counter increments on a positive clock edge only if its 'active low enable (nE)' is asserted. if its cntby2 input is asserted (active high), the counter increments by 2, othewise increments by 1. If the counter overflows, it continues to count starting from 000. The counter has an 'active low asynchronous reset (nReset)'
