@@ -1,0 +1,97 @@
+$date
+	Sun Aug 07 23:25:47 2016
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module dFlipflop_tb $end
+$var wire 1 ! Q $end
+$var reg 1 " D $end
+$var reg 1 # Reset $end
+$var reg 1 $ clk $end
+$scope module UUT $end
+$var wire 1 % D $end
+$var wire 1 & Reset $end
+$var wire 1 ' clk $end
+$var reg 1 ( Q $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x(
+0'
+1&
+0%
+0$
+1#
+0"
+x!
+$end
+#5
+0(
+0!
+1$
+1'
+#10
+0$
+0'
+0#
+0&
+#12
+1"
+1%
+#15
+1(
+1!
+1$
+1'
+#20
+0$
+0'
+#25
+1$
+1'
+#30
+0$
+0'
+#35
+1$
+1'
+#37
+0"
+0%
+#40
+0$
+0'
+#45
+0(
+0!
+1$
+1'
+#47
+1"
+1%
+#50
+0$
+0'
+#55
+1(
+1!
+1$
+1'
+#59
+0"
+0%
+#60
+0$
+0'
+#65
+0(
+0!
+1$
+1'
+#69
