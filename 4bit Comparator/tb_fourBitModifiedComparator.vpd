@@ -1,0 +1,90 @@
+$date
+	Tue Aug 30 09:04:42 2016
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_fourBitModifiedComparator $end
+$var wire 4 ! R [3:0] $end
+$var reg 4 " A [3:0] $end
+$var reg 4 # B [3:0] $end
+$scope module UUT $end
+$var wire 4 $ A [3:0] $end
+$var wire 4 % B [3:0] $end
+$var reg 4 & R [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bz001 &
+b1010 %
+b101 $
+b1010 #
+b101 "
+bz001 !
+$end
+#10
+bz100 &
+bz100 !
+b101 #
+b101 %
+b1010 "
+b1010 $
+#20
+b11 #
+b11 %
+b1100 "
+b1100 $
+#30
+bz001 &
+bz001 !
+b1100 #
+b1100 %
+b11 "
+b11 $
+#40
+bz010 &
+bz010 !
+b1100 "
+b1100 $
+#50
+bz001 &
+bz001 !
+b101 #
+b101 %
+b11 "
+b11 $
+#60
+b1001 #
+b1001 %
+b110 "
+b110 $
+#70
+b1110 #
+b1110 %
+b111 "
+b111 $
+#80
+b100 #
+b100 %
+b10 "
+b10 $
+#90
+bz010 &
+bz010 !
+b1000 #
+b1000 %
+b1000 "
+b1000 $
+#100
+bz100 &
+bz100 !
+b1010 #
+b1010 %
+b1100 "
+b1100 $
+#120
